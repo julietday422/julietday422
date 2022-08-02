@@ -1,10 +1,13 @@
 ### Hi! I'm Juliet :smiley:
+
 Graduate of the Flatiron School's Data Science Program with experience in Python, SQL, statistical analysis, data acquisition, data visualization, machine learning, (scikit-learn, Pandas, NumPy), and NLP. 
+
 Previously earned my Bachelors in Criminal Justice from The George Washington University and a Restaurant and Culinary Management Diploma from the Institute of Culinary Education.
+
 Former small business owner of Baked By Juliet, selling scones nationally and to farmstands and small grocers. 
 Enthusiastic coder, problem solver, and baker
 
-### Projects 
+### Projects :tada:
 
  :fork_and_knife: Opentable Forecasting: Covid and Politics
  
