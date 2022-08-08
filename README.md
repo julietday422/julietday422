@@ -21,7 +21,7 @@ Predicting the functionality of water wells using logistic regression with 79% r
 Examined 100,830 ratings over 9,700 movies to create a collaborative-based movie recommendation system based on users' previous ratings
 
 ## Contact Me 👋
-Email: julietday422@gmail.com
+Email: julietcday@gmail.com
 
 Linkedin: https://www.linkedin.com/in/julietday/
 
